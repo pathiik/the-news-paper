@@ -1,24 +1,26 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+import EditorWorld from './components/Editor World Area/EditorWorld';
+import Footer from './components/Footer Area/Footer';
+import Header from './components/Header Area/Header';
+import Hero from './components/Hero Area/Hero';
+import MainNews from './components/Main News Area/MainNews';
+import PopularInfoMain from './components/Popular Info Area/PopularInfoMain';
+import VideosMain from './components/Videos Area/VideosMain';
+
+// import tailwind from './tailwind.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header />
+      <Hero />
+      <MainNews />
+      <PopularInfoMain />
+      <VideosMain/>
+      <EditorWorld />
+      <Footer />
+    </>
   );
 }
 

@@ -1,0 +1,38 @@
+export default [
+    {
+        img: '/img1.webp',
+        link: '#',
+        cat: 'Finance',
+        catLink: '#',
+        title: 'Dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placer. Sed varius leo ac...',
+        likes: 392,
+        comments: 10,
+    },
+    {
+        img: '/img2.webp',
+        link: '#',
+        cat: 'Finance',
+        catLink: '#',
+        title: 'Dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placer. Sed varius leo ac...',
+        likes: 392,
+        comments: 10,
+    },
+    {
+        img: '/img3.webp',
+        link: '#',
+        cat: 'Finance',
+        catLink: '#',
+        title: 'Dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placer. Sed varius leo ac...',
+        likes: 392,
+        comments: 10,
+    },
+    {
+        img: '/img4.webp',
+        link: '#',
+        cat: 'Finance',
+        catLink: '#',
+        title: 'Dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placer. Sed varius leo ac...',
+        likes: 392,
+        comments: 10,
+    },
+]
