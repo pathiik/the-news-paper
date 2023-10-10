@@ -71,7 +71,7 @@ export default function Footer() {
                         </div>
 
                         <div className="footer-bottom-left-down">
-                            <p>Copyright &copy;2023 All Rights Reserved | <b>Pathik Bhattarai</b> <br />Colorlib Template</p>
+                            <p>Copyright &copy;2023 All Rights Reserved | <b>Pathik Bhattarai</b></p>
                         </div>
 
                     </div>
